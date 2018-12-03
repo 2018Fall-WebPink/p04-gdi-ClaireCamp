@@ -1,0 +1,35 @@
+/*
+*Claire Campbell
+*12/3/18
+*Girl Develop It Project and it is about a program for girls to code. 
+*/
+
+/*The universal selector*/
+
+* {
+
+}
+
+
+
+/*These are background colors*/
+header{background-color:#f96b6e;}
+
+body{background-color: lightpink;}
+
+/*This is how big and position the picture is going to be*/
+#Logo {width: 400px; height: 100px;}
+
+header{text-align: center;}
+
+/*This is the heading's fonts*/
+h2{font-family: cursive,sans-serif; text-decoration: underline;}
+
+h3{font-family: cursive, sans-serif; text-decoration: underline;}
+
+/*This is for the links. It explains their size and font*/
+a:hover, a:focus {color:deeppink; text-decoration: underline;font-size: 130%}
+
+/*This is how the images are floated*/
+#PeoplewithLaptops {float:right;}
+#PersonwithLaptop {float:right;}
